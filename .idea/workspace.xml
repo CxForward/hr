@@ -9,10 +9,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/pc/hcy/learn/dao/ApplicantDao.java" line="11" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b3466ad-51fd-4916-ba76-7f03f24787b5" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/pc/hcy/learn/web/IndexServlet.java" afterDir="false" />
+    <list default="true" id="2b3466ad-51fd-4916-ba76-7f03f24787b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/WebContent/addapplicant.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
-              <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+              <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -396,7 +394,7 @@
       <workItem from="1571921837576" duration="8487000" />
       <workItem from="1571930588787" duration="321000" />
       <workItem from="1571931471785" duration="1512000" />
-      <workItem from="1572761724006" duration="403000" />
+      <workItem from="1572761724006" duration="661000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1571932021845</created>
@@ -405,17 +403,24 @@
       <option name="project" value="LOCAL" />
       <updated>1571932021846</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1572762137206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572762137206</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95705000" />
+    <option name="totallyTimeSpent" value="95963000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24253732" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24253732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -437,7 +442,7 @@
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49840087" weight="0.32850778" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32962137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -864,7 +869,7 @@
     <entry file="file://$PROJECT_DIR$/WebContent/addapplicant.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
-          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
         </state>
       </provider>
     </entry>
